@@ -32,20 +32,7 @@ a::before {
     margin-right: 10px;
 }
 
-#button {
-    display: inline-block;
-    background-color: #DFE0E2;
-    padding: 18px 20px;
-    box-shadow: 4px 4px 6px #23B5D3 ;
-    margin-right: 0;
-    transition: transform 100ms linear;
-    transition: background-color 100ms linear opacity 200ms ease-in-out;
-}
 
-#button:hover {
-    opacity: 0,5;
-    transform: scale(1.08);
-}
 
 h1 {
     font-family: "Press Start 2p";
